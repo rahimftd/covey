@@ -8,7 +8,6 @@ Please visit [mycovey.com](http://mycovey.com)
 [![Build Status](https://travis-ci.org/teamcovey/covey.svg?branch=master)](https://travis-ci.org/teamcovey/covey)
 --------------------
 
-
 ## Table of Contents 
 - [Example / Usage](#example--usage)
 - [Installation](#installation)
